@@ -142,7 +142,7 @@ body {
                     .fs-4 {
                         line-height: 1.7;
 
-                        font-size: clamp(16px, 2vw, 1.275rem) !important;
+                        font-size: clamp(16px, 2vw, 1.275rem);
                     }
                 }
                 .img-col {
@@ -961,6 +961,7 @@ body {
                         }
                         .fs-4 {
                             text-align: justify;
+                            font-size: 0.9rem !important;
                         }
                     }
                     .img-col {
@@ -986,6 +987,7 @@ body {
                         }
                         .fs-4 {
                             text-align: justify;
+                            font-size: 0.9rem !important;
                         }
                     }
 
